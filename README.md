@@ -1,6 +1,5 @@
 ### Currently interested in...
 - Game Developing
-- Virtual Reality
 - Artificial Intelligence
 - Mobile Developing
 
