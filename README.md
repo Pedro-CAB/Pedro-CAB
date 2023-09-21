@@ -6,7 +6,6 @@
 
 ### Currently Learning
 - Godot
-- Prolog
 
 ### Things I Like
 - Tabletop RPG's
