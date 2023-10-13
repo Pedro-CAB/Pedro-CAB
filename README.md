@@ -2,9 +2,10 @@
 - Game Developing
 - Artificial Intelligence
 - Mobile Developing
+- Virtual Reality
 
 ### Currently Learning
-- Godot
+- ThreeJS
 
 ### Things I Like
 - Tabletop RPG's
