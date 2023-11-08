@@ -1,6 +1,3 @@
-### About Me...
-I am a college student, currently enrolled in the first year of the masters of Informatics Engineering and Computation at FEUP, Porto, Portugal.
-
 ### Some Projects I Developed in College...
 |Project Description|Technologies and Concepts Learned|Grade|Status|
 |:----:|:--:|:--:|:--:|
