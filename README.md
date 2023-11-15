@@ -1,22 +1,23 @@
-### Some Projects I Developed in College...
-|Project Description|Technologies and Concepts Learned|Grade|Status|
-|:----:|:--:|:--:|:--:|
-|[Console App for Airway Company Information Management](https://github.com/Pedro-CAB/aed2122_trabalho1)|Data Structures, C++|14.88/20.00|Private|
-|[Transportation Network Console Assistant](https://github.com/Pedro-CAB/aedProject2/tree/main)|Graphs, Binary Trees, C++, Doxygen|16.20/20.00|Private|
-|[SQL Database for a Cinema](https://github.com/Pedro-CAB/CinemaBD)|SQL, SQLite, Database Development|----/20.00|Private|
-|[Pacman Reimplementation](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g1102)|Java, Design Patterns, Code Smells and Refactoring|----/20.00|Private|
-|[LineScape](https://github.com/LEIC-ES-2021-22/3LEIC02T5)|Flutter, Project Management|----/20.00|Private|
-|Group4All|UI and UX Design, Prototyping, Figma|----/20.00|Private|
-|[Wana Board Game AI on Console](https://github.com/Pedro-CAB/IA-Project)|AI, Python|----/20.00|Private|
-|[Wana Implementation with Logical Programming](https://github.com/Pedro-CAB/PFL-Project2)|AI,Prolog|----/20.00|Private|
-|Internal Management Website for Orfeão Universitário do Porto|Laravel, Web Dev|----/20.00|Private|
-|PopLore - A Collaborative News Website|Laravel, Web Dev|----/20.00|Private|
-|Polynom Calculator|Haskell, Functional Programming|----/20.00|Private|
-|Java-- Compiler|Java, Compiler Development|----/20.00|Private|
-|Interactive 3D Scene|WebGL, JavaScript|----/20.00|Private|
-|Food Ordering Website|Web Dev|----/20.00|Private|
+### Some Projects I Developed/am Developing in College...
+|Project Name | Description|Technologies and Concepts Learned|Grade|Status|
+|:----:|:--:|:--:|:--:|:--:|
+|[AirAssistant](https://github.com/Pedro-CAB/aed2122_trabalho1)|Console App for Airway Company Information Management|Data Structures, C++|14.88/20.00|Private|
+|[STCP Assistant](https://github.com/Pedro-CAB/aedProject2/tree/main)|Transportation Network Console Assistant|Graphs, Binary Trees, C++, Doxygen|16.20/20.00|Private|
+|[CinemaDB](https://github.com/Pedro-CAB/CinemaBD)|SQL Database for a Cinema|SQL, SQLite, Database Development|----/20.00|Private|
+|[Pacman](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g1102)|Reimplementation of a Game in Console|Java, Design Patterns, Code Smells and Refactoring|----/20.00|Private|
+|[LineScape](https://github.com/LEIC-ES-2021-22/3LEIC02T5)|Mobile App for Checking Length of Lines in College's Services|Flutter, Project Management|----/20.00|Private|
+|Group4All|Prototyping a Mobile App for Student Workgroup Formation|UI and UX Design, Prototyping, Figma|----/20.00|Private|
+|[WanaAI](https://github.com/Pedro-CAB/IA-Project)|Board Game AI on Console|AI, Python|----/20.00|Private|
+|[WanaProlog](https://github.com/Pedro-CAB/PFL-Project2)|Board Game Implementation with Logical Programming|AI,Prolog|----/20.00|Private|
+|[orfeao.fe.up.pt]()|Internal Management Website for Orfeão Universitário do Porto|Laravel, Web Dev|----/20.00|Private|
+|[PopLore]()| A Collaborative News Website|Laravel, Web Dev|----/20.00|Private|
+|[Polynom Calculator]()| A calculator for adding, subtracting and multiplying polynoms using Functional Programming|Haskell, Functional Programming|----/20.00|Private|
+|[Java-- Compiler]()|Java Sublanguage Compiler|Java, Compiler Development|----/20.00|Private|
+|[Bird & Eggs]()|Interactive 3D Scene|WebGL, JavaScript|----/20.00|Private|
+|[Food Ordering Website](https://github.com/pedronunomacedo/LTW-Project)|Food Ordering Website|Web Dev|----/20.00|Public|
 |Manufacturing Execution Service|Web Dev, Large-Scale Development|----/20.00|In Development|
 |WNBA Qualification Prediction Model|Machine Learning, Python|----/20.00|In Development|
+|SteamHunter|Videogame Store Search System|Information Recovery and Processing|----/20.00|In Development|
 
 ### Currently interested in...
 - Game Developing
