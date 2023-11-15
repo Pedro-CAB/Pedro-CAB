@@ -15,8 +15,8 @@
 |[Java-- Compiler]()|Java Sublanguage Compiler|Java, Compiler Development|----/20.00|Private|
 |[Bird & Eggs]()|Interactive 3D Scene|WebGL, JavaScript|----/20.00|Private|
 |[Food Ordering Website](https://github.com/pedronunomacedo/LTW-Project)|Food Ordering Website|Web Dev|11.47/20.00|Public|
-|Manufacturing Execution Service|Web Dev, Large-Scale Development|----/20.00|In Development|
-|WNBA Qualification Prediction Model|Machine Learning, Python|----/20.00|In Development|
+|Manufacturing Execution Service||Web Dev, Large-Scale Development|----/20.00|In Development|
+|WNBA Predictions|WNBA Qualification Prediction Model|Machine Learning, Python|----/20.00|In Development|
 |SteamHunter|Videogame Store Search System|Information Recovery and Processing|----/20.00|In Development|
 
 ### Currently interested in...
