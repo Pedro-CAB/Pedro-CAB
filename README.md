@@ -15,7 +15,7 @@
 |[Java-- Compiler]()|Java Sublanguage Compiler|Java, Compiler Development|----/20.00|Private|
 |[Bird & Eggs]()|Interactive 3D Scene|WebGL, JavaScript|----/20.00|Private|
 |[Food Ordering Website](https://github.com/pedronunomacedo/LTW-Project)|Food Ordering Website|Web Dev|11.47/20.00|Public|
-|[Manufacturing Execution Service](https://github.com/FEUP-MEIC-DS-2023-1MEIC03/MES)||Web Dev, Large-Scale Development|----/20.00|Private|
+|[Manufacturing Execution Service](https://github.com/FEUP-MEIC-DS-2023-1MEIC03/MES)||Web Dev, Large-Scale Development|16.00/20.00|Private|
 |[WNBA Predictions](https://github.com/Pedro-CAB/AC-Project)|WNBA Qualification Prediction Model|Machine Learning, Python|15.50/20.00|Public|
 |[Shopping Lists on the Cloud](https://github.com/Pedro-CAB/AC-Project)|Local-First Cloud Based System for Collaborative Shopping Lists|Large-Scale Development, Local-First Software|16.80/20.00|Public|
 |[SteamHunter](https://github.com/Pedro-CAB/PRI-Project)|Videogame Store Search System|Information Recovery and Processing|17.4/20.00|Public|
