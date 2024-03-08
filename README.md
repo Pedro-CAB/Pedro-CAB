@@ -27,8 +27,8 @@
 - Virtual Reality
 
 ### Currently Learning
-- JavaScript
-- ThreeJS
+- Godot
+- OpenCV
 
 ### Things I Like
 - Tabletop RPG's
