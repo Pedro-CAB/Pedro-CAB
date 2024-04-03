@@ -19,7 +19,7 @@
 |[WNBA Predictions](https://github.com/Pedro-CAB/AC-Project)|WNBA Qualification Prediction Model|Machine Learning, Python|15.50/20.00|Public|
 |[Shopping Lists on the Cloud](https://github.com/Pedro-CAB/AC-Project)|Local-First Cloud Based System for Collaborative Shopping Lists|Large-Scale Development, Local-First Software|16.80/20.00|Public|
 |[SteamHunter](https://github.com/Pedro-CAB/PRI-Project)|Videogame Store Search System|Information Recovery and Processing|17.4/20.00|Public|
-|[Path of Excelence](https://github.com/Pedro-CAB/DDJD-Demo/tree/main)| 2D Lemming-Inspired Game Demo |Game Development, Godot|----/20.00|In Development|
+|[Path of Excelence](https://github.com/Pedro-CAB/DDJD-Demo/tree/main)| 2D Lemming-Inspired Game Demo |Game Development, Godot|----/20.00|Private|
 
 ### Currently interested in...
 - Game Developing
