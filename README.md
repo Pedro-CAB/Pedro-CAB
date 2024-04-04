@@ -3,10 +3,10 @@
 |:----:|:--:|:--:|:--:|:--:|
 |[AirAssistant](https://github.com/Pedro-CAB/aed2122_trabalho1)|Console App for Airway Company Information Management|Data Structures, C++|14.88/20.00|Public|
 |[STCP Assistant](https://github.com/Pedro-CAB/aedProject2/tree/main)|Transportation Network Console Assistant|Graphs, Binary Trees, C++, Doxygen|16.20/20.00|Public|
-|[CinemaDB](https://github.com/Pedro-CAB/CinemaBD)|SQL Database for a Cinema|SQL, SQLite, Database Development|----/20.00|Public|
-|[Pacman](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g1102)|Reimplementation of a Game in Console|Java, Design Patterns, Code Smells and Refactoring|----/20.00|Public|
-|[LineScape](https://github.com/LEIC-ES-2021-22/3LEIC02T5)|Mobile App for Checking Length of Lines in College's Services|Flutter, Project Management|----/20.00|Private|
-|Group4All|Prototyping a Mobile App for Student Workgroup Formation|UI and UX Design, Prototyping, Figma|----/20.00|Private|
+|[CinemaDB](https://github.com/Pedro-CAB/CinemaBD)|SQL Database for a Cinema|SQL, SQLite, Database Development|16.00/20.00|Public|
+|[Pacman](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g1102)|Reimplementation of a Game in Console|Java, Design Patterns, Code Smells and Refactoring|15.23/20.00|Public|
+|[LineScape](https://github.com/LEIC-ES-2021-22/3LEIC02T5)|Mobile App for Checking Length of Lines in College's Services|Flutter, Project Management|15.60/20.00|Public|
+|[Group4All](https://www.figma.com/proto/BAWQdh25iAYvMlHg9xhj2T/Group4All?type=design&node-id=229-76&t=VPt2h9oMod3SIYx9-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A90&show-proto-sidebar=1)|Prototyping a Mobile App for Student Workgroup Formation|UI and UX Design, Prototyping, Figma|18.40/20.00|Public|
 |[WanaAI](https://github.com/Pedro-CAB/IA-Project)|Board Game AI on Console|AI, Python|----/20.00|Private|
 |[WanaProlog](https://github.com/Pedro-CAB/PFL-Project2)|Board Game Implementation with Logical Programming|AI,Prolog|----/20.00|Private|
 |[orfeao.fe.up.pt](https://github.com/Pedro-CAB/projeto-integrador)|Internal Management Website for Orfeão Universitário do Porto|Laravel, Web Dev|----/20.00|Private|
