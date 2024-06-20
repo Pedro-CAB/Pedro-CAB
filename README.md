@@ -23,13 +23,11 @@
 
 ### Currently interested in...
 - Game Developing
-- Artificial Intelligence
 - Mobile Developing
 - Virtual Reality
 
 ### Currently Learning
 - Godot
-- OpenCV
 
 ### Things I Like
 - Tabletop RPG's
