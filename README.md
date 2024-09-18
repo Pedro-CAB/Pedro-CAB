@@ -7,13 +7,14 @@
 |[Pacman](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g1102)|Reimplementation of a Game in Console|Java, Design Patterns, Code Smells and Refactoring|15.23/20.00|Public|
 |[LineScape](https://github.com/LEIC-ES-2021-22/3LEIC02T5)|Mobile App for Checking Length of Lines in College's Services|Flutter, Project Management|15.60/20.00|Public|
 |[Group4All](https://www.figma.com/proto/BAWQdh25iAYvMlHg9xhj2T/Group4All?type=design&node-id=229-76&t=VPt2h9oMod3SIYx9-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A90&show-proto-sidebar=1)|Prototyping a Mobile App for Student Workgroup Formation|UI and UX Design, Prototyping, Figma|18.40/20.00|Public|
-|[WanaAI](https://github.com/Pedro-CAB/IA-Project)|Board Game AI on Console|AI, Python|----/20.00|Private|
-|[WanaProlog](https://github.com/Pedro-CAB/PFL-Project2)|Board Game Implementation with Logical Programming|AI,Prolog|----/20.00|Private|
+|[WanaAI](https://github.com/Pedro-CAB/IA-Project)|Board Game AI on Console|AI, Python|17.50/20.00|Public|
+|[AI Project 2]()||18.50/20.00|Private|
+|[WanaProlog](https://github.com/Pedro-CAB/PFL-Project2)|Board Game Implementation with Logical Programming|AI,Prolog|----/20.00|Public|
 |[orfeao.fe.up.pt](https://github.com/Pedro-CAB/projeto-integrador)|Internal Management Website for Orfeão Universitário do Porto|Laravel, Web Dev|----/20.00|Private|
 |[PopLore]()| A Collaborative News Website|Laravel, Web Dev|----/20.00|Private|
 |[Polynom Calculator]()| A calculator for adding, subtracting and multiplying polynoms using Functional Programming|Haskell, Functional Programming|----/20.00|Private|
-|[Java-- Compiler]()|Java Sublanguage Compiler|Java, Compiler Development|----/20.00|Private|
-|[Bird & Eggs]()|Interactive 3D Scene|WebGL, JavaScript|----/20.00|Private|
+|[Java-- Compiler]()|Java Sublanguage Compiler|Java, Compiler Development|15.74/20.00|Private|
+|[Bird & Eggs]()|Interactive 3D Scene|WebGL, JavaScript|15.60/20.00|Private|
 |[Food Ordering Website](https://github.com/pedronunomacedo/LTW-Project)|Food Ordering Website|Web Dev|11.47/20.00|Public|
 |[Manufacturing Execution Service](https://github.com/FEUP-MEIC-DS-2023-1MEIC03/MES)||Web Dev, Large-Scale Development|16.00/20.00|Private|
 |[WNBA Predictions](https://github.com/Pedro-CAB/AC-Project)|WNBA Qualification Prediction Model|Machine Learning, Python|15.50/20.00|Public|
