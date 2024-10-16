@@ -10,7 +10,7 @@
 |[WanaAI](https://github.com/Pedro-CAB/IA-Project)|Board Game AI on Console|AI, Python|17.50/20.00|Public|
 |[AI Project 2]()|||18.50/20.00|Private|
 |[WanaProlog](https://github.com/Pedro-CAB/PFL-Project2)|Board Game Implementation with Logical Programming|AI,Prolog|----/20.00|Public|
-|[orfeao.fe.up.pt](https://github.com/Pedro-CAB/projeto-integrador)|Internal Management Website for Orfeão Universitário do Porto|Laravel, Web Dev|----/20.00|Private|
+|[orfeao.fe.up.pt](https://github.com/Pedro-CAB/projeto-integrador)|Internal Management Website for Orfeão Universitário do Porto|Laravel, Web Dev|16.00/20.00|Private|
 |[PopLore]()| A Collaborative News Website|Laravel, Web Dev|----/20.00|Private|
 |[Polynom Calculator]()| A calculator for adding, subtracting and multiplying polynoms using Functional Programming|Haskell, Functional Programming|----/20.00|Private|
 |[Java-- Compiler]()|Java Sublanguage Compiler|Java, Compiler Development|15.74/20.00|Private|
