@@ -23,12 +23,12 @@
 |[Path of Excelence](https://github.com/Pedro-CAB/DDJD-Demo/tree/main)| 2D Lemming-Inspired Game Demo |Game Development, Godot|----/20.00|Private|
 
 ### Currently interested in...
-- Game Developing
-- Mobile Developing
-- Virtual Reality
+- Game Development
+- Mobile Development
 
 ### Currently Learning
 - Godot
+- Unity
 
 ### Things I Like
 - Tabletop RPG's
