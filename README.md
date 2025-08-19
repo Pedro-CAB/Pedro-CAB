@@ -1,28 +1,25 @@
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">## Currently Interested In...</b></td>
-    <td><b style="font-size:30px">## Currently Learning...</b></td>
- </tr>
- <tr>
- <td>
-## AA
+<td>
+
+## Languages and Technologies
+[![Learned Languages](https://skillicons.dev/icons?i=html,css,js,php)](https://skillicons.dev)
+[![Learned Languages](https://skillicons.dev/icons?i=sqlite,postgres)](https://skillicons.dev)
+[![Learned Languages](https://skillicons.dev/icons?i=c,cs,cpp,haskell,py,java)](https://skillicons.dev)
+[![Learned Languages](https://skillicons.dev/icons?i=flutter,unity,godot)](https://skillicons.dev)
+
+### Interested In...
 - Game Development
 - Mobile Development
 </td>
-
 <td>
+
+### Currently Learning
 - Godot
 - Unity
 </td>
  </tr>
 </table>
-
-### Things I Like
-- Tabletop RPG's
-- Videogames
-- Anime & Manga
-- Fiction Books, Comics & Movies
-- Drawing & Writing
 
 ### Some of My College Projects...
 |Project Name | Description|Technologies and Concepts Learned|Grade|Status|
