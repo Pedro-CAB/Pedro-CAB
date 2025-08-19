@@ -1,15 +1,18 @@
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">Currently Interested In...</b></td>
-    <td><b style="font-size:30px">Currently Learning...</b></td>
+    <td><b style="font-size:30px">## Currently Interested In...</b></td>
+    <td><b style="font-size:30px">## Currently Learning...</b></td>
  </tr>
  <tr>
-    <td>Game Development, Mobile Development
+ <td>
+- Game Development
+- Mobile Development
+</td>
 
-### Currently Learning
+<td>
 - Godot
-- Unity</td>
-    <td>Lorem ipsum ...</td>
+- Unity
+</td>
  </tr>
 </table>
 
