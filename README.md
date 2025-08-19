@@ -3,7 +3,7 @@
 <td>
 
 ## About Me
-I achieved an MSc in Informatics and Computing Engineering at FEUP, Porto, in 2025, after five years of hardwork and determination. This course has increased my desire for working in Game Development while also sparking interest in new areas such as Project Management, Mobile Development, UI/UX and Software Engineering. 
+I achieved an MSc in Informatics and Computing Engineering at [FEUP](https://github.com/FEUP), Porto, in 2025, after five years of hardwork and determination. This course has increased my desire for working in Game Development while also sparking interest in new areas such as Project Management, Mobile Development, UI/UX and Software Engineering. 
 
 I am a creative individual, hoping to find new challenges that allow me to use my problem solving skills, my knowledge and my creativity to develop products that may inspire, entertain and benefit others, while at the same time learning and improving my capabilities as a developer and as a professional.
 
@@ -36,37 +36,21 @@ I am currently based in Porto, Portugal.
 </table>
 
 ## Some of My College Projects...
-
-### Game Development
 |Project Name | Description|Technologies and Concepts Learned|Grade|Status|
 |:----:|:--:|:--:|:--:|:--:|
-|[Path of Excelence](https://github.com/Pedro-CAB/DDJD-Demo/tree/main)| 2D Lemming-Inspired Game Demo |Game Development, Godot|----/20.00|Private|
+|[Path of Excelence](https://github.com/Pedro-CAB/DDJD-Demo/tree/main)| 2D Lemming-Inspired Game Demo |Game Development, Godot|16.00/20.00|Public|
 |[Bird & Eggs + Exercises](https://github.com/Pedro-CAB/Computer-Graphics?tab=readme-ov-file)|Interactive 3D Scene + Graphics Computation Exercises |WebGL, JavaScript|15.60/20.00|Public|
 |[Pacman](https://github.com/FEUP-LDTS-2021/ldts-project-assignment-g1102)|Reimplementation of a Game in Console|Java, Design Patterns, Code Smells and Refactoring|15.23/20.00|Public|
 |[CapiDefenders](https://github.com/Pedro-PFerreira/RVA)|Augmented Reality Tower Defense Game|AR, Unity, Vuforia|16.30/20.00|Public|
 |[WanaAI](https://github.com/Pedro-CAB/IA-Project)|Board Game AI on Console App|AI, Python|17.50/20.00|Public|
-|[WanaProlog](https://github.com/Pedro-CAB/PFL-Project2)|Board Game Implementation with Logical Programming|AI,Prolog|----/20.00|Public|
-
-### Mobile Development
-|Project Name | Description|Technologies and Concepts Learned|Grade|Status|
-|:----:|:--:|:--:|:--:|:--:|
+|[The Last Glimpse](https://github.com/lougon02/RVA2)|VR Experience Simulating a Nuclear Disaster in Space|VR, Unity|16.20/20.00|Private|
 |[LineScape](https://github.com/LEIC-ES-2021-22/3LEIC02T5)|Mobile App for Checking Length of Lines in College's Services|Flutter, Project Management|15.60/20.00|Public|
 |[Group4All](https://www.figma.com/proto/BAWQdh25iAYvMlHg9xhj2T/Group4All?type=design&node-id=229-76&t=VPt2h9oMod3SIYx9-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A90&show-proto-sidebar=1)|Prototyping a Mobile App for Student Workgroup Formation|UI and UX Design, Prototyping, Figma|18.40/20.00|Public|
-
-
-### Web Development
-|Project Name | Description|Technologies and Concepts Learned|Grade|Status|
-|:----:|:--:|:--:|:--:|:--:|
 |[Food Ordering Website](https://github.com/pedronunomacedo/LTW-Project)|Food Ordering Website|Web Dev|11.47/20.00|Public|
 |[PopLore](https://github.com/Pedro-CAB/LBAW-Project)| A Collaborative News Website|Laravel, Web Dev|----/20.00|Private|
 |[SteamHunter](https://github.com/Pedro-CAB/PRI-Project)|Videogame Store Search System|Information Recovery and Processing|17.4/20.00|Public|
 |[orfeao.fe.up.pt](https://github.com/Pedro-CAB/projeto-integrador)|Internal Management Website for Orfeão Universitário do Porto|Laravel, Web Dev|16.00/20.00|Private|
-|[Manufacturing Execution Service](https://github.com/FEUP-MEIC-DS-2023-1MEIC03/MES)||Web Dev, Large-Scale Development|16.00/20.00|Private|
-
-### Others...
-
-|Project Name | Description|Technologies and Concepts Learned|Grade|Status|
-|:----:|:--:|:--:|:--:|:--:|
+|[Manufacturing Execution Service](https://github.com/FEUP-MEIC-DS-2023-1MEIC03/MES)|Management Tool for Industrial Manufacturing Machines|Web Dev, Large-Scale Development|16.00/20.00|Private|
 |[AirAssistant](https://github.com/Pedro-CAB/aed2122_trabalho1)|Console App for Airway Company Information Management|Data Structures, C++|14.88/20.00|Public|
 |[STCP Assistant](https://github.com/Pedro-CAB/aedProject2/tree/main)|Transportation Network Console Assistant|Graphs, Binary Trees, C++, Doxygen|16.20/20.00|Public|
 |[CinemaDB](https://github.com/Pedro-CAB/CinemaBD)|SQL Database for a Cinema|SQL, SQLite, Database Development|16.00/20.00|Public|
