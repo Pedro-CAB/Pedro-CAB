@@ -1,4 +1,4 @@
-### Some of My College Projects
+### Some of My College Projects...
 |Project Name | Description|Technologies and Concepts Learned|Grade|Status|
 |:----:|:--:|:--:|:--:|:--:|
 |[AirAssistant](https://github.com/Pedro-CAB/aed2122_trabalho1)|Console App for Airway Company Information Management|Data Structures, C++|14.88/20.00|Public|
