@@ -13,7 +13,7 @@
 |[WanaProlog](https://github.com/Pedro-CAB/PFL-Project2)|Board Game Implementation with Logical Programming|AI,Prolog|----/20.00|Public|
 |[orfeao.fe.up.pt](https://github.com/Pedro-CAB/projeto-integrador)|Internal Management Website for Orfeão Universitário do Porto|Laravel, Web Dev|16.00/20.00|Private|
 |[PopLore]()| A Collaborative News Website|Laravel, Web Dev|----/20.00|Private|
-|[Polynom Calculator](https://github.com/Pedro-CAB/PFL-Project)| A calculator for adding, subtracting and multiplying polynoms using Functional Programming|Haskell, Functional Programming|17.90/20.00|Private|
+|[Polynom Calculator](https://github.com/Pedro-CAB/PFL-Project)| A calculator for adding, subtracting and multiplying polynoms using Functional Programming|Haskell, Functional Programming|17.90/20.00|Public|
 |[Java-- Compiler]()|Java Sublanguage Compiler|Java, Compiler Development|15.74/20.00|Private|
 |[Bird & Eggs]()|Interactive 3D Scene|WebGL, JavaScript|15.60/20.00|Private|
 |[Food Ordering Website](https://github.com/pedronunomacedo/LTW-Project)|Food Ordering Website|Web Dev|11.47/20.00|Public|
