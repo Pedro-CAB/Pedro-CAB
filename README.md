@@ -56,7 +56,7 @@ I am currently based in Porto, Portugal.
 |[CinemaDB](https://github.com/Pedro-CAB/CinemaBD)|SQL Database for a Cinema|SQL, SQLite, Database Development|16.00/20.00|Public|
 |[Car Insurance Claim Prediction](https://github.com/Pedro-CAB/IA-Project-2)|Applying Machine Learning for making Car Insurance Claim Predictions|Machine Learning, Python|18.50/20.00|Public|
 |[Polynom Calculator](https://github.com/Pedro-CAB/PFL-Project)| A calculator for adding, subtracting and multiplying polynoms using Functional Programming|Haskell, Functional Programming|17.90/20.00|Public|
-|[Java-- Compiler](https://github.com/Pedro-CAB/Compilers)|Java Sublanguage Compiler|Java, Compiler Development|15.74/20.00|Private|
+|[Java-- Compiler](https://github.com/Pedro-CAB/Compilers)|Java Sublanguage Compiler|Java, Compiler Development|15.74/20.00|Public|
 |[WNBA Predictions](https://github.com/Pedro-CAB/AC-Project)|WNBA Qualification Prediction Model|Machine Learning, Python|15.50/20.00|Public|
 |[Shopping Lists on the Cloud](https://github.com/Pedro-CAB/AC-Project)|Local-First Cloud Based System for Collaborative Shopping Lists|Large-Scale Development, Local-First Software|16.80/20.00|Public|
 
