@@ -1,3 +1,25 @@
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Currently Interested In...</b></td>
+    <td><b style="font-size:30px">Currently Learning...</b></td>
+ </tr>
+ <tr>
+    <td>Game Development, Mobile Development
+
+### Currently Learning
+- Godot
+- Unity</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
+### Things I Like
+- Tabletop RPG's
+- Videogames
+- Anime & Manga
+- Fiction Books, Comics & Movies
+- Drawing & Writing
+
 ### Some of My College Projects...
 |Project Name | Description|Technologies and Concepts Learned|Grade|Status|
 |:----:|:--:|:--:|:--:|:--:|
@@ -22,21 +44,6 @@
 |[Shopping Lists on the Cloud](https://github.com/Pedro-CAB/AC-Project)|Local-First Cloud Based System for Collaborative Shopping Lists|Large-Scale Development, Local-First Software|16.80/20.00|Public|
 |[SteamHunter](https://github.com/Pedro-CAB/PRI-Project)|Videogame Store Search System|Information Recovery and Processing|17.4/20.00|Public|
 |[Path of Excelence](https://github.com/Pedro-CAB/DDJD-Demo/tree/main)| 2D Lemming-Inspired Game Demo |Game Development, Godot|----/20.00|Private|
-
-### Currently interested in...
-- Game Development
-- Mobile Development
-
-### Currently Learning
-- Godot
-- Unity
-
-### Things I Like
-- Tabletop RPG's
-- Videogames
-- Anime & Manga
-- Fiction Books, Comics & Movies
-- Drawing & Writing
 
 <!---
 Pedro-CAB/Pedro-CAB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
