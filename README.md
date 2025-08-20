@@ -11,7 +11,7 @@
 </tr>
  <tr>
 <td>
-I achieved an MSc in Informatics and Computing Engineering at [FEUP](https://github.com/FEUP), Porto, in 2025, after five years of hardwork and determination. This course has increased my desire for working in Game Development while also sparking interest in new areas such as Project Management, Mobile Development, UI/UX and Software Engineering. 
+I achieved an MSc in Informatics and Computing Engineering at <a href="https://github.com/FEUP">FEUP</a>, Porto, in 2025, after five years of hardwork and determination. This course has increased my desire for working in Game Development while also sparking interest in new areas such as Project Management, Mobile Development, UI/UX and Software Engineering. 
 
 I am a creative individual, hoping to find new challenges that allow me to use my problem solving skills, my knowledge and my creativity to develop products that may inspire, entertain and benefit others, while at the same time learning and improving my capabilities as a developer and as a professional.
 
