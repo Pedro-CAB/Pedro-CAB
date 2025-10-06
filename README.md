@@ -52,7 +52,7 @@ I am currently based in Porto, Portugal.
   </tr>
   <tr><th colspan="4">Game Development</th></tr>
   <tr>
-    <td><a href="https://github.com/Pedro-CAB/Emotion-Rush">Emotion Rush [Masters Dissertation]</a></td>
+    <td><a href="https://github.com/Pedro-CAB/Emotion-Rush">Emotion Rush [Masters Dissertation](Private Repo)</a></td>
     <td>Mobile Serious Arcade Role-Playing Game for Promoting Emotion Regulation in Adolescents in Residential Care</td>
     <td>Game Development, Unity</td>
     <td>17.00/20.00</td>
