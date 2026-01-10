@@ -38,8 +38,8 @@ I am currently based in Porto, Portugal.
 </td>
 
  </tr>
-<tr><td><img src="https://github-readme-stats.vercel.app/api?username=Pedro-CAB&count_private=true&theme=ayu-mirage&show_icons=true"
-    height="160rem"/></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-CAB&layout=compact&theme=ayu-mirage" height="160rem"/></td></tr>
+<!--<tr><td><img src="https://github-readme-stats.vercel.app/api?username=Pedro-CAB&count_private=true&theme=ayu-mirage&show_icons=true"
+    height="160rem"/></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-CAB&layout=compact&theme=ayu-mirage" height="160rem"/></td></tr>-->
 </table>
 
 ## Some of My College Projects...
