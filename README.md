@@ -35,6 +35,8 @@ I am currently based in Porto, Portugal.
 [![Learned Languages](https://skillicons.dev/icons?i=haskell,py,java,matlab)](https://skillicons.dev)
 
 [![Learned Languages](https://skillicons.dev/icons?i=figma,flutter,laravel,unity,godot)](https://skillicons.dev)
+
+[![Learned Languages](https://skillicons.dev/icons?i=ansible,terraform)](https://skillicons.dev)
 </td>
 
  </tr>
